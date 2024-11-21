@@ -5,7 +5,7 @@ This model aims to evaluate the likelihood of repayment, minimize risks, and max
 The data includes financial and personal characteristics as well as repayment histories.
 The solution is presented in **main/scripts/classificationProblem.ipynb**
 
-Feel free to upload this script to your GitHub repository
+Feel free to upload this scripts and datasets to your GitHub repository
 ```bash
 git clone git@github.com:delnouty/ML-related-problems.git
 ```
