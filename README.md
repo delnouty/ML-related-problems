@@ -10,7 +10,9 @@ In the field of health insurance, accurately predicting medical expenses is vita
 
 [Prediction of Medical Expenses](https://github.com/delnouty/ML-related-problems/blob/main/scripts/simpleRegression.ipynb)
 
-Feel free to upload this scripts and datasets to your GitHub repository
+## Project: Customer Segmentation for Online Retail
+An online retail company aims to improve its marketing actions by segmenting its customers based on their purchasing behavior. The analysis relies on the Online Retail dataset, which contains transactions from British customers between 2010 and 2011. The results will help develop personalized strategies, such as targeted promotions or loyalty programs.
+
 ```bash
 git clone git@github.com:delnouty/ML-related-problems.git
 ```
