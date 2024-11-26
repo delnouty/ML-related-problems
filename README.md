@@ -5,8 +5,7 @@ This model aims to evaluate the likelihood of repayment, minimize risks, and max
 The data includes financial and personal characteristics as well as repayment histories.
 The solution is presented in **main/scripts/classificationProblem.ipynb**
 
-## Project: this also in english Prédiction des frais médicaux
-Prediction of Medical Expenses
+## Project:  Prediction of Medical Expenses
 In the field of health insurance, accurately predicting medical expenses is vital for developing effective pricing policies and managing future costs. By analyzing the provided dataset, you will train multiple regression models and evaluate their performances to understand the key factors influencing medical expenses. This analysis will enable you to provide relevant business recommendations to optimize pricing strategies and ensure better financial management within the insurance sector.
 
 Feel free to upload this scripts and datasets to your GitHub repository
