@@ -1,1 +1,35 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Expense Predictor</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Medical Expense Predictor</h1>
+        <form action="/predict" method="post">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required><br><br>
+            
+            <label for="bmi">BMI:</label>
+            <input type="number" id="bmi" name="bmi" step="0.1" required><br><br>
+            
+            <label for="children">Number of Children:</label>
+            <input type="number" id="children" name="children" required><br><br>
+            
+            <label for="smoker">Are you a smoker? (1 for Yes, 0 for No):</label>
+            <input type="number" id="smoker" name="smoker" required><br><br>
+            
+            <label for="region">Region (as an integer 1, 2, 3, or 4):</label>
+            <input type="number" id="region" name="region" required><br><br>
+            
+            <label for="heavyCase">Is it a heavy case? (1 for Yes, 0 for No):</label>
+            <input type="number" id="heavyCase" name="heavyCase" required><br><br>
+            
+            <button type="submit">Predict Expenses</button>
+        </form>
+    </div>
+</body>
+</html>
