@@ -14,9 +14,9 @@ In the field of health insurance, accurately predicting medical expenses is vita
 An online retail company aims to improve its marketing actions by segmenting its customers based on their purchasing behavior. The analysis relies on the Online Retail dataset, which contains transactions from British customers between 2010 and 2011. The results will help develop personalized strategies, such as targeted promotions or loyalty programs.
 There are two solutions 
 * the first one is just to show different clustering methods
-  [I. Customer Segmentation for Online Retail](https://github.com/delnouty/ML-related-problems/blob/main/scripts/UnSuperVis.ipynb)
+[I. Customer Segmentation for Online Retail](https://github.com/delnouty/ML-related-problems/blob/main/scripts/UnSuperVis.ipynb)
 * the second one is addressed to Factor Analysis as a method for features creation
-  [II. Customer Segmentation for Online Retail](https://github.com/delnouty/ML-related-problems/blob/main/scripts/clusteringKMeansFAProblem.ipynb)
+[II. Customer Segmentation for Online Retail](https://github.com/delnouty/ML-related-problems/blob/main/scripts/clusteringKMeansFAProblem.ipynb)
 ```bash
 git clone git@github.com:delnouty/ML-related-problems.git
 ```
